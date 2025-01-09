@@ -1,0 +1,53 @@
+/* Google Font */
+.merriweather {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.inter {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Common Style */
+
+/* Banner Style */
+header{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    height: 546px;
+    width: 1200px;
+    border-radius: 16px;
+    background-image: url(/images/Banner\ Image.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.banner-content{
+    width: 575px;
+    height: 224px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.banner-content h1{
+    font-size: 65px;
+    
+}
+
+.banner-content h5{
+    font-size: 30px;
+}
