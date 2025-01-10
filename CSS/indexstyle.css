@@ -30,7 +30,7 @@ header{
     border-radius: 16px;
     background-color: rgb(7, 2, 17)
     rgba(7, 2, 17, 0);
-    background-image: url(/images/Banner\ Image.png);
+    background-image: url(/images/Banner\Image.png);
     background-size: cover;
     display: flex;
     justify-content: center;
